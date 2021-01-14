@@ -1,0 +1,12 @@
+.fieldInput {
+  width: 30vw;
+  height: 50px;
+  border-radius: 25px;
+  border: solid 2px #0178ff;
+  padding-left: 20px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: bold;
+  color: #0178ff;
+  margin-bottom: 10%;
+}
