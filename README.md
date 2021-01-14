@@ -30,13 +30,13 @@ The screen you shall be working on allows the user to add a new time slot when t
 
 Clicking on 'Add Time Slot' creates a new time slot like so:
 
-![](images/addtimeslot_clicked.png)
+![](images/addtimeslot_clicked.PNG)
 
 However as you will notice, clicking on 'Add Time Slot' a second and third time causes the slots to overlap each other as well as reduce in width:
 
-![](images/addtimeslot_clicked_2.png)
+![](images/addtimeslot_clicked_2.PNG)
 
-![](images/addtimeslot_clicked_3.png)
+![](images/addtimeslot_clicked_3.PNG)
 
 ## The Test
 
