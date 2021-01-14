@@ -1,5 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
-
 # Kin Frontend Developer Interview Test
 
 Hi, thank you for applying for the role of Frontend Developer. Before we can proceed with your application, we would be grateful if you could complete this challenge as it would help us get a better understanding of your technical skills. This challenge has been based off a UI design that we are implementing for our Web App.
