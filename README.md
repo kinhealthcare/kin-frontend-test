@@ -26,7 +26,7 @@ Storybook is used to develop the individual components, and allows one to easily
 
 The screen you shall be working on allows the user to add a new time slot when the drugs can be dispensed, along with adding new drugs to each time slot. However, for this challenge you need not concern yourself with the 'add new drugs to a timeslot' feature. When you open AddDrug->Time Quantity on the Storybook browser, you shall be presented with the following image:
 
-![](images/initial_screen.png)
+![](./images/initial_screen.png)
 
 Clicking on 'Add Time Slot' creates a new time slot like so:
 
