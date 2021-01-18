@@ -1,5 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
-
 # Kin Frontend Developer Interview Test
 
 Hi, thank you for applying for the role of Frontend Developer. Before we can proceed with your application, we would be grateful if you could complete this challenge as it would help us get a better understanding of your technical skills. This challenge has been based off a UI design that we are implementing for our Web App.
@@ -26,17 +24,17 @@ Storybook is used to develop the individual components, and allows one to easily
 
 The screen you shall be working on allows the user to add a new time slot when the drugs can be dispensed, along with adding new drugs to each time slot. However, for this challenge you need not concern yourself with the 'add new drugs to a timeslot' feature. When you open AddDrug->Time Quantity on the Storybook browser, you shall be presented with the following image:
 
-![](images/initial_screen.png)
+![](./images/initial_screen.PNG)
 
 Clicking on 'Add Time Slot' creates a new time slot like so:
 
-![](images/addtimeslot_clicked.png)
+![](images/addtimeslot_clicked.PNG)
 
 However as you will notice, clicking on 'Add Time Slot' a second and third time causes the slots to overlap each other as well as reduce in width:
 
-![](images/addtimeslot_clicked_2.png)
+![](images/addtimeslot_clicked_2.PNG)
 
-![](images/addtimeslot_clicked_3.png)
+![](images/addtimeslot_clicked_3.PNG)
 
 ## The Test
 
